@@ -1,6 +1,6 @@
-# ogame-kamil
+# vue example app
 
-apka apka apka ;x
+Really simple search and display data from nasa api. Unfinished and unstylled. App only to try vue.
 
 ## Project setup
 ```
